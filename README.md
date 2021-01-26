@@ -1,5 +1,7 @@
 # rokers.github.io
 
+Website for the Rokers Laboratory at the New York University, Abu Dhabi.
+
 We live in a three-dimensional world, but each of our eyes only receives a two-dimensional image. How does our brain combine these images?
 
 Research in our laboratory focuses on the neural mechanisms underlying visual perception, with an emphasis on motion and depth perception. Signals from the two eyes need to be combined in visual cortex in order to inform us of the position and movement of objects. 
